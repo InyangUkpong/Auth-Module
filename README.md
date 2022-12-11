@@ -1,5 +1,6 @@
-# Building Authentication Model APIS-with-DRF
-This is source code for a series of videos in which I cover the Django REST Framework. 
+# Building a User Authentication Model APIS-with-DRF
+This is source code is for a user authentication system model using Django REST Framework. 
+
 
 ## How to run this project
 ### 1. Clone the project
@@ -11,4 +12,3 @@ This is source code for a series of videos in which I cover the Django REST Fram
 ### 2. Running the project
 ```
 python manage.py runserver
-```
